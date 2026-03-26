@@ -22,6 +22,13 @@ This project implements a **4-bit Shift Register** using Verilog HDL. It demonst
 * ModelSim
 
 ---
+## 🚀 Live Simulation
+
+Click below to run the project:
+
+👉 ▶️ [Run Shift Register Simulation](https://www.edaplayground.com/x/s4WW)
+
+Note: Click **Run** in EDA Playground to view the waveform output.
 
 ## 📁 Files Included
 
